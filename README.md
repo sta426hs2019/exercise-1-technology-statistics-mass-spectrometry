@@ -4,12 +4,12 @@
 
 ## Team members
 <br><br>
-### Alexander-Syn
+* Alexander-Syn
 <br>
-### Caua Westmann
+* Caua Westmann
 <br>
-### Ahmadreza Yousefkhani
+* Ahmadreza
 <br>
-### Flavio
+* Flavio
 
 
