@@ -3,7 +3,6 @@
 <br><br>
 
 ## Team members
-<br>
 * Alexander-Syn
 * Caua Westmann
 * Ahmadreza
