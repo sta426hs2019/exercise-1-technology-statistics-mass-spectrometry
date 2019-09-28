@@ -5,11 +5,8 @@
 ## Team members
 <br><br>
 * Alexander-Syn
-<br>
 * Caua Westmann
-<br>
 * Ahmadreza
-<br>
 * Flavio
 
 
