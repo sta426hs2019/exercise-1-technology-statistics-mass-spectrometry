@@ -1,7 +1,7 @@
 
 ---
 title: "Mass spectrometry"
-author: "Cauã Westmann, Ahmadreza Yousefkhani, Alexander Schanne, Flavio Rump"
+author: "Cauã Westmann, Ahmadreza Yousefkhani, Alexander Schanne, Flavio Rump   "
 date: "29.09.2019"
 output: github_document
 ---
@@ -10,7 +10,6 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Mass Spectrometry
 
 ## Introduction
 Mass spectrometry is an analytical chemistry technique that helps identify the amount and type of chemicals present in a sample by measuring the mass-to-charge ratio and abundance of gas-phase ions.     
