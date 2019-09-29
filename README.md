@@ -3,9 +3,6 @@ Mass spectrometry
 Cauã Westmann, Ahmadreza Yousefkhani, Alexander Schanne, Flavio Rump
 29.09.2019
 
-Mass Spectrometry
-=================
-
 Introduction
 ------------
 
