@@ -7,7 +7,10 @@ Introduction
 ------------
 
 Mass spectrometry is an analytical chemistry technique that helps identify the amount and type of chemicals present in a sample by measuring the mass-to-charge ratio and abundance of gas-phase ions.
-It works by ionizing chemical compounds to generate charged molecules or molecule fragments and measuring their mass-to-charge ratios. Here is some videos introducing MS: \* [](https://www.youtube.com/watch?v=J-wao0O0_qM&t) \* [](https://www.youtube.com/watch?v=sTi--ixdAME)
+It works by ionizing chemical compounds to generate charged molecules or molecule fragments and measuring their mass-to-charge ratios. Here is some videos introducing MS:
+
+-   [First youtube video](https://www.youtube.com/watch?v=J-wao0O0_qM&t)
+-   [Second youtube video](https://www.youtube.com/watch?v=sTi--ixdAME)
 
 How it works
 ------------
@@ -37,6 +40,9 @@ The y-axis represents signal intensity. Signal intensity depends on certain fact
 <img src="./Volcano%20plot%20for%20MS.png" alt="sample volcano plot for mass spec data" width="350" />
 
 Here are some links that explain a pipeline for analyzing mass spec data:
+
 1- [CSAMA workshop 2018](https://github.com/Bioconductor/CSAMA)
+
 2- Yu, Fang, F. Qiu, and J. Meza. "Design and Statistical Analysis of Mass-Spectrometry-Based Quantitative Proteomics Data." Proteomic Profiling and Analytical Chemistry. Elsevier, 2016. 211-237.
+
 3- Choi, Meena, et al. "MSstats: an R package for statistical analysis of quantitative mass spectrometry-based proteomic experiments." Bioinformatics 30.17 (2014): 2524-2526.
